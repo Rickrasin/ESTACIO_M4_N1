@@ -4,7 +4,7 @@
 
 A atividade prática foi feita utilizando **Async Storage** para manter a persistência de dados. Foi utilizado **react-native-navigation** para ter uma navegação entre as microatividades e atividade prática do projeto. Não consegui rodar o projeto com react-native puro, portanto utilizei **Expo** para sua inicialização e funconamento.
 
-Este projeto foi criado com base na missão prática do nível 2 (_RPG0023 - Vamos Criar um App_) do Mundo 4 no curso de **Desenvolvimento Full-Stack da Estácio**.
+Este projeto foi criado com base na missão prática do nível 1 (_RPG0023 - Vamos Criar um App_) do Mundo 4 no curso de **Desenvolvimento Full-Stack da Estácio**.
 
 ---
 
